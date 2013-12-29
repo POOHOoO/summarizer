@@ -1,0 +1,4 @@
+summarizer
+==========
+
+multi-document summarizer
